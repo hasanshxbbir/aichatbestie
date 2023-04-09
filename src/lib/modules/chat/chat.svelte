@@ -686,9 +686,7 @@
           href="/"
           class="hover:font-medium hover:underline hover:text-blue-400"
         >
-          AI Chat Bestie
-        </a>
-        - Enhanced UI for ChatGPT
+          An AI-Driven 🤖 assistant Powered by Hasan Shabbir 
       </div>
     </form>
   </div>
